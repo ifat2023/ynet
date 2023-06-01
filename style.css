@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px
+}
+
+.card {
+    width:545px;
+    height: 212px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid rgb(32, 28, 28);
+    padding: 5px 10px;
+ 
+
+}
+
+#title{
+    text-align: center
+}
